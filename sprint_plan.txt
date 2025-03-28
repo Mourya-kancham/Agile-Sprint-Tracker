@@ -1,0 +1,20 @@
+Sprint Tracker: Process Improvement Initiative
+Goal: Reduce task delivery time by 15% in 3 months
+
+Sprint 1 (2 weeks, Jan 1-14):
+- Gather requirements from team (2 days)
+- Map current process in Visio (3 days)
+- Set baseline metrics (2 days)
+Outcome: Identified 3 key delays (e.g., handoff waits)
+
+Sprint 2 (2 weeks, Jan 15-28):
+- Analyze delay data with SQL (4 days)
+- Propose fixes (e.g., automate handoffs) (3 days)
+- Test changes (3 days)
+Outcome: Cut delays by 5%
+
+Sprint 3 (2 weeks, Jan 29-Feb 11):
+- Build Power BI report (4 days)
+- Train team on new process (2 days)
+- Review with stakeholders (2 days)
+Outcome: Full 15% reduction achieved
